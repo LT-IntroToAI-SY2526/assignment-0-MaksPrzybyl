@@ -14,7 +14,7 @@ All answers can be found in the README.md file
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+Commiting and pushing is when you have the changes you made on your device uploaded to your repository. This allows other users to see them.
 
 **3. What is a repository and what does it contain?**
 
