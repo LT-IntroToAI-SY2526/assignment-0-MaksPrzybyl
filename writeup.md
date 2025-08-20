@@ -18,7 +18,7 @@ Commiting and pushing is when you have the changes you made on your device uploa
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+A repository is a project folder that contains all of your work.
 
 ---
 
