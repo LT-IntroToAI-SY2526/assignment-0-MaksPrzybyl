@@ -10,7 +10,7 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+Git is a version control system that tracks your changes in code. Github is the online version of Git.
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
