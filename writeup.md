@@ -18,7 +18,7 @@ Commiting and pushing is when you have the changes you made on your device uploa
 
 **3. What is a repository and what does it contain?**
 
-A repository is a project folder that contains all of your work.
+A repository is a virtual project folder that contains all of your work.
 
 ---
 
@@ -26,7 +26,7 @@ A repository is a project folder that contains all of your work.
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+https://github.com/MaksPrzybyl/MaksPrzybyl
 
 ---
 
@@ -34,7 +34,7 @@ A repository is a project folder that contains all of your work.
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+I'm curious about how AI can learn from input. I have also intriguied by the concept of AI robots ever since I was a kid.
 
 ---
 
